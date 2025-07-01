@@ -1,0 +1,26 @@
+.nav-link:hover{
+    color: #1d83aa !important;
+    
+    ;
+}
+
+h1{
+    text-align: center;
+    font-size:80px !important;
+    color:#1d83aa;
+}
+
+.btn{
+    color:#1d83aa !important;
+}
+
+.btn-outline{
+    color:#1d83aa !important;
+
+
+}
+
+#logoStart{
+    position:relative;
+    top:0px;
+}
